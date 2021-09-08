@@ -6,7 +6,7 @@
 		<link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
 	</head>
 	<body>
-		<!-- Replace this with _data yml and tags (logic control) on navigation bar  
+		
 		<nav>
 				<ul>
 						<li><a href="/">Home</a></li>
@@ -15,14 +15,6 @@
 						<li><a href="/blog">Blog</a></li>
 				</ul>
 		</nav>
-		-->
-<nav>
-{% for item in site.data.navigation %}
-	<a href="{{ item.link }}">
-		{{ item.name }}
-	</a>
-{% endfor %}
-</nav>
 
 
 		<div class="container">
@@ -30,6 +22,7 @@
 		{{ content }}
 
 		</div> <!-- /.container -->
+		
 		<footer>
 				<ul>
 						<li><a href="mailto:shaofeng.lu@hotmail.com">email</a></li>
