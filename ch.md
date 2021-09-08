@@ -69,8 +69,8 @@
   * 2019级：张伯伦
   * 2021级：彭洋
 * 硕士研究生
-  * 2019级： 孟光照 
-  * 2020级： 冯敏玲、吴坤鹏 
+  * 2019级：孟光照 
+  * 2020级：冯敏玲、吴坤鹏 
   * 2021级：陈锋、陈浩钦、王楚博、王俊捷
 
 # 论文发表
@@ -90,7 +90,7 @@
 * Bing Han, **Shaofeng Lu***, Fei Xue and Lin Jiang, “Day-Ahead Electric Vehicle Aggregator Bidding Strategy using Stochastic Programming in an Uncertain Reserve Market”, IET Generation, Transmission and Distribution, 13 (12), 2517-2525
 * Fei Xue, Shaofeng Lu, Ettore Bompard, Ciwei Gao, Lin Jiang and Xiaoliang Wang, “Node Type Distribution and Its Impacts on Performance of Power Grids”, IEEE Access, pp. 46480 – 46490, 2019
 * C. Wu, W. Zhang, **S. Lu***, Z. Tan, F. Xue, and J. Yang, "Train Speed Trajectory Optimization With On-Board Energy Storage Device," IEEE Transactions on Intelligent Transportation Systems, pp. 1-11, 2018.
-* Zhaoxiang Tan, **Shaofeng Lu***, Kai Bao, Shaoning Zhang, Chaoxian Wu, Jie Yang and Fei Xue, “Adaptive Partial Train Speed Trajectory Optimization”, Energies, 11, 3302, 2018   
+* Zhaoxiang Tan, **Shaofeng Lu***, Kai Bao, Shaoning Zhang, Chaoxian Wu, Jie Yang and Fei Xue, “Adaptive Partial Train Speed Trajectory Optimization”, Energies, 11, 3302, 2018  
 * Yuanli Liu, Minwu Chen, **Shaofeng Lu**, Yinyu Chen, Qunzhan Li, “Optimized Sizing and Scheduling of Hybrid Energy Storage Systems for High-speed Railway Traction Substation”, Energies, 2018
 * X. Xu, F. Xue, **S. Lu**, H. Zhu, L. Jiang, and B. Han, "Structural and Hierarchical Partitioning of Virtual Microgrids in Power Distribution Network," IEEE Systems Journal, Early Access, 2018.
 * J. Yang, L. Jia, Y. Fu, and **S. Lu**, "Speed Tracking Based Energy-Efficient Freight Train Control through Multi-Algorithms Combination," IEEE Intelligent Transportation Systems Magazine, vol. 9, pp. 76-90, 2017.
@@ -105,8 +105,6 @@
 * **S. Lu**, P. Weston, S. Hillmansen, H. B. Gooi, and C. Roberts, "Increasing the regenerative braking energy for railway vehicles," IEEE Transactions on Intelligent Transportation Systems, vol. 15, pp. 2506-2515, 2014.
 * **S. Lu**, S. Hillmansen, T. K. Ho, and C. Roberts, "Single-train trajectory optimization," IEEE Transactions on Intelligent Transportation Systems, vol. 14, pp. 743-750, 2013.
 * **S. Lu**, S. Hillmansen, and C. Roberts, "A power-management strategy for multiple-unit railroad vehicles," IEEE transactions on vehicular technology, vol. 60, pp. 406-420, 2011.
-## 会议论文
-未完待续...
 
 # 学术奖励
 * 苏州工业园区高层次人才项目，中国苏州工业园区，2017年
@@ -119,7 +117,7 @@
 * **特邀讲座**，青岛地铁运营部工作人员，2020年8月
 * **最佳论文奖**，第四届2019年铁路运输电气和信息技术国际会议
 * **指导老师**， 2018年IEEE智能交通系统协会2018年国际学生作文比赛第一名获奖者论文
-* 江西科技大学外部研究生导师，中国，2018年-2021年
+* 江西科技大学研究生导师，中国，2018年-2021年
 * 分会场主席，2017年IEEE智能交通系统国际会议（IEEE ITSC 2017）
-* 2014年12月25日和2016年5月4日应邀到北京交通大学演讲
+* 2014年12月25日和2016年5月4日应邀到北京交通大学进行学术讲座
 * 国际期刊的评审，期刊包含Transportation Research Part B: Methodological、 IEEE Transactions on Intelligent Transportation Systems、Proceedings of Institute of Mechanical Engineering Part F: Journal of Rail and Rapid Transit等。
