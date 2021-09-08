@@ -11,7 +11,7 @@
 <a href="/" {% if page.url == "/" %} style="color: green;"{% endif %}>
 	Home
 </a>
-<a href="/about.html" style="color: green;">
+<a href="/about.html" {% if page.url == "/about.html" %} style="color: yellow;"{% endif %}>
 	About
 </a>
 </nav>
