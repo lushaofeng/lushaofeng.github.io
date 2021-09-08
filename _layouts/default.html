@@ -7,7 +7,11 @@
 </head>
 <body>
 	
-{%include navigation.html %}
+<nav>
+   {% for item in site.data.navigation %}
+   <li><a href="{{ item.link }}">{{item.name}}</a></li>
+   {% endfor %}
+</nav>
 
 <div class="container">
 {{ content }}
