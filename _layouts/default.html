@@ -1,34 +1,32 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>{{ page.title }}</title>
-		<!-- link to main stylesheet -->
-		<link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
-	</head>
-	<body>
-		
+<head>
+	<title>{{ page.title }}</title>
+	<!-- link to main stylesheet -->
+	<link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
+</head>
+<body>
+
 <nav>
-  <a href="/" {% if page.url == "/" %}style="color: red;"{% endif %}>
-    Home
-  </a>
-  <a href="/about.html" {% if page.url == "/about.html" %} style="color: red;"{% endif %}>
-    About
-  </a>
+<a href="/" {% if page.url == "/" %}style="color: red;"{% endif %}>
+	Home
+</a>
+<a href="/about.html" style="color: red;"{% endif %}>
+	About
+</a>
 </nav>
 
+<div class="container">
 
+	{{ content }}
 
-		<div class="container">
+	</div> <!-- /.container -->
 
-		{{ content }}
-
-		</div> <!-- /.container -->
-		
-		<footer>
-				<ul>
-						<li><a href="mailto:shaofeng.lu@hotmail.com">email</a></li>
-						<li><a href="https://github.com/lushaofeng">github.com/lushaofeng</a></li>
-			</ul>
-		</footer>
-	</body>
+	<footer>
+			<ul>
+					<li><a href="mailto:shaofeng.lu@hotmail.com">email</a></li>
+					<li><a href="https://github.com/lushaofeng">github.com/lushaofeng</a></li>
+		</ul>
+	</footer>
+</body>
 </html>
