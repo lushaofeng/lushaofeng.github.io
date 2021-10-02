@@ -15,7 +15,7 @@ description:         Shaofeng's blog...
 #urlimg: https://lanyon-plus.sbamin.com/images/
 ## If you do not have custom domain, comment top three lines, uncomment three lines below and replace dyndna with your github userid and lanyon-plus with your project name. Also, rename CNAME file to CNAME.sample
 url: https://lushaofeng.github.io/
-baseurl: "/"
+baseurl: ""
 urlimg: https://lushaofeng.github.io/images/
 markdown: kramdown
 kramdown:
@@ -56,8 +56,8 @@ author:
 
 # Owner/author information
 owner:
-  name:           Shaofeng Lu
-  avatar:         foo.png
+  name:           Lu Shaofeng
+  avatar:         lushaofeng.png
   email:          Shaofeng.Lu@hotmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:
@@ -66,7 +66,7 @@ owner:
   facebook:       
   github:         lushaofeng
   stackexchange:  
-  linkedin:       https://www.linkedin.com/in/foo
+  linkedin:       https://www.linkedin.com/in/shaofeng-lu-45507b18
   instagram:      
   flickr:
   tumblr:  
@@ -94,7 +94,7 @@ links:
   - title: <i class="iconside iconm-envelop"></i> Contact
     url: /contact/
   - title: <i class="iconside iconm-twitter"></i> Twitter
-    url: https://twitter.com/abcd
+    url: https://twitter.com/ShaofengLu1
     external: true
   - title: <i class="iconside iconm-feed2"></i> Feed
     url: /feed.xml
@@ -107,7 +107,7 @@ links:
 #twitter_widget_id: xyz123abc
 
 # Add disqus username for Disqus comment board:
-disqus_shortname: foo
+#disqus_shortname: foo
 
 # Analytics and webmaster tools stuff goes here
 #google_analytics:   xyz123abc
