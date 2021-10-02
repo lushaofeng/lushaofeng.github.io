@@ -26,7 +26,7 @@ style: |
     } 
 ---
 
-#{% comment %}
+
 <!-- bibbase.org should work with following code unless you are hosting domain over https. --> 
 
 {% if page.bibtex %}
@@ -39,6 +39,5 @@ style: |
 <script src="http://bibbase.org/show?bib={{ biburl | cgi_escape }}&amp;jsonp=1&amp;authorFirst=1"></script>
 {% endif %}
 
-#{% endcomment %}
 
-#If category is *mypubs*, then html content from bibtex file at `_includes/mypubs.html` will be shown below.
+If category is *mypubs*, then html content from bibtex file at `_includes/mypubs.html` will be shown below.
