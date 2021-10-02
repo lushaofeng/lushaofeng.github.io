@@ -1,6 +1,5 @@
 ---
 layout: publ
-category: mypubs
 permalink: /about/publications/
 title: "My Publications"
 published: true
