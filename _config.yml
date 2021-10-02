@@ -7,16 +7,16 @@
 #encoding: utf-8
 
 # Setup
-title:               My Website
-#tagline:             'foo's website
-description:         Foo's blog...
-url: https://lanyon-plus.sbamin.com
-baseurl: ""
-urlimg: https://lanyon-plus.sbamin.com/images/
+title:               Lu Shaofeng Web Page 
+#tagline:             'Shaofeng's website
+description:         Shaofeng's blog...
+#url: https://lanyon-plus.sbamin.com
+#baseurl: ""
+#urlimg: https://lanyon-plus.sbamin.com/images/
 ## If you do not have custom domain, comment top three lines, uncomment three lines below and replace dyndna with your github userid and lanyon-plus with your project name. Also, rename CNAME file to CNAME.sample
-url: https://lushaofeng.github.io/lanyon-plus
-baseurl: "/lanyon-plus"
-urlimg: https://lushaofeng.github.io/lanyon-plus/images/
+url: https://lushaofeng.github.io/
+baseurl: "/"
+urlimg: https://lushaofeng.github.io/images/
 markdown: kramdown
 kramdown:
   math_engine: mathjax
@@ -49,31 +49,31 @@ exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "l
 
 # About/contact
 author:
-  name:              Foo Boo
-  url:               https://twitter.com/abcd
-  avatar:         foo.png
-  #email:           
+  name:              Lu Shaofeng
+  url:               https://twitter.com/ShaofengLu1
+  avatar:            foo.png
+  email:             Shaofeng.Lu@hotmail.com
 
 # Owner/author information
 owner:
-  name:           Foo Boo
+  name:           Shaofeng Lu
   avatar:         foo.png
-  #email:          
+  email:          Shaofeng.Lu@hotmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        abcd
+  twitter:        ShaofengLu1
   facebook:       
-  github:         xyz123abc
+  github:         lushaofeng
   stackexchange:  
   linkedin:       https://www.linkedin.com/in/foo
   instagram:      
   flickr:
   tumblr:  
-  google_plus:    https://plus.google.com/+foo
+  #google_plus:    https://plus.google.com/+foo
   # orcid and google scholar IDs are different than standard username.
-  orcid: xyz123abc
-  gscholar: xyz123abc
+  orcid: 0000-0001-5361-2463
+  gscholar: hfkHeAQAAAAJ&hl
 
 ## sidebar links:
 # For external links add external: true
@@ -89,7 +89,7 @@ links:
   - title: <i class="fa fa-archive"></i> Archive
     url: /archive/
   - title: <i class="iconside iconm-wordpress"></i> Old Blog
-    url: https://foo.wordpress.com
+    url: https://lushaofeng.wordpress.com
     external: true
   - title: <i class="iconside iconm-envelop"></i> Contact
     url: /contact/
@@ -113,6 +113,6 @@ disqus_shortname: foo
 #google_analytics:   xyz123abc
 
 #### For dummy website only - remove if you wish ####
-github_repo: https://github.com/dyndna/lanyon-plus
-version: 1.1.1
+#github_repo: https://github.com/dyndna/lanyon-plus
+#version: 1.1.1
 ## END ##
