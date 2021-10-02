@@ -189,7 +189,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  addressable (= 2.3.8)
+  addressable (>= 2.8.0)
   execjs (>= 2.6.0)
   font-awesome-sass (>= 4.6.2)
   github-pages (>= 93)
