@@ -4,7 +4,7 @@ category: mypubs
 permalink: /about/publications/
 title: "My Publications"
 published: true
-description: "Sample publication page"
+description: "Lu Shaofeng's Publication List"
 tags:
   - papers
   - articles
@@ -19,14 +19,14 @@ nofollow: true
 sitemap:
     priority: 0.5
     changefreq: 'monthly'
-    lastmod: 2016-02-13
+    lastmod: 2021-10-02
 style: |
   .container {
         max-width: 48rem;
     } 
 ---
 
-{% comment %}
+# {% comment %}
 <!-- bibbase.org should work with following code unless you are hosting domain over https. --> 
 
 {% if page.bibtex %}
@@ -39,6 +39,6 @@ style: |
 <script src="http://bibbase.org/show?bib={{ biburl | cgi_escape }}&amp;jsonp=1&amp;authorFirst=1"></script>
 {% endif %}
 
-{% endcomment %}
+# {% endcomment %}
 
-If category is *mypubs*, then html content from bibtex file at `_includes/mypubs.html` will be shown below.
+# If category is *mypubs*, then html content from bibtex file at `_includes/mypubs.html` will be shown below.
