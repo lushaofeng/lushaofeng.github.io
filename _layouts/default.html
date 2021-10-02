@@ -6,8 +6,12 @@ Homepage: {{ site.url }}
 Credits: {{ site.url }}/disclosure
 ====================================================
 -->
-{% include head.html %}
-
+{% include head.html %}    
+<body>
+ 
+<script type="text/javascript"
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
+    
 <script type="text/x-mathjax-config">
 MathJax.Hub.Config({
 tex2jax: {
@@ -23,8 +27,6 @@ autoNumber: "AMS"
 }
 });
 </script>
-    
-<body>
 
 {% include sidebar.html %}
 
@@ -70,8 +72,6 @@ autoNumber: "AMS"
         }, false);
       })(document);
     </script>
-    
-
 
     {% include scripts.html %}
 
