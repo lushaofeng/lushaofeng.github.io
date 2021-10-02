@@ -13,7 +13,7 @@ sitemap:
     changefreq: 'monthly'
     lastmod: 2016-02-13
 tags:
-  - "foo boo"
+  - "Lu Shaofeng"
   - "driving directions"
   - address
 ---
@@ -22,9 +22,7 @@ tags:
 | - | :- |
 | <i class="fa fa-envelope"></i> | Lu Shaofeng <br>South China University of Technology<br>777 Fuxing Ave East, Panyu District<br> Guangzhou 215000| 
 | - | :- |
-#| <i class="fa fa-car"></i>  | [Driving directions]({{ site.url }}/directions) | 
-#| - | :- |
-| <i class="fa fa-paper-plane">  | shaofeng.lu@hotmail.com | 
+| <i class="fa fa-paper-plane"></i> | shaofeng.lu@hotmail.com | 
 | - | :- |
 
 <a href="https://twitter.com/share" class="twitter-share-button" data-via="{{ site.owner.twitter }}" data-size="small" data-dnt="true">Tweet</a> <a href="javascript:window.print()" class="social-icons" title="Printer friendly format"><i class="fa fa-print"></i></a>
