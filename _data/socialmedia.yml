@@ -1,22 +1,22 @@
 - name: Twitter
-  url: https://twitter.com/abcd
+  url: https://twitter.com/shaofenglu1
   class: fa fa-twitter-square
-  title: "Follow me @foo"
+  title: "Follow me @ShaofengLu1"
 
-- name: Google Plus
-  url: https://plus.google.com/+foo
-  class: fa fa-google-plus-square
+- name: Facebook
+  url: https://www.facebook.com/shaofeng.lu
+  class: fa fa-facebook-official
   title: "Follow me +foo"
 
 - name: GitHub
-  url: https://github.com/xyz123abc
+  url: https://github.com/lushaofeng
   class: fa fa-github-square
   title: Code repository
 
 - name: Contact
   url: "/contact/"
   class: fa fa-envelope-square
-  title: "Reach Us"
+  title: "Contact me"
 
 - name: RSS
   url: "/feed.xml"
