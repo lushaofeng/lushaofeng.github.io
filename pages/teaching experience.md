@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 卢少锋的教学经历
+permalink: /teaching_ch/
 # date element overrides date in title format.
 date: 2021-10-03
 tag:
