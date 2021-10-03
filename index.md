@@ -6,7 +6,7 @@ description: "Lu Shaofeng Homepage"
 ---
 大家好，我是卢少锋，欢迎来到我的个人网页。我目前是华南理工大学的一名高校老师，欢迎点击我的[中文主页](/chinese/)
 
-Hi, welcom to my personal webpage. My name is Lu Shaofeng. I am currently an Associate Professor with the Shien-Ming Wu School of Intelligent Engineering, South China University of Technology (SCUT). <a href="/about/"> Read more about my professional life story...</a>
+Hi, welcome to my personal webpage. My name is Lu Shaofeng. I am currently an Associate Professor with South China University of Technology (SCUT). <a href="/about/"> Read more about my professional life story...</a>
 
 <div class="posts">
   {% for post in site.categories.featured limit:2 %}
