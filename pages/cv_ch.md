@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /cv_ch/
-title: Curriculum Vitae
+title: 卢少锋中文简历
 category: base
 published: true
 description: "卢少锋中文简历"
