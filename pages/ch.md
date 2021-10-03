@@ -21,7 +21,7 @@ tags:
 <div class="post-author text-center">                       
 <img src="{{ site.urlimg }}{{ site.owner.avatar }}" alt="{{ site.owner.name }}'s photo" itemprop="image" class="post-avatar img-circle img-responsive"/> 
 <span class="social-icons" style="padding-top: 10px; padding-bottom: 1px;">
-<a href="{{ site.url }}/cv" title="个人简历" class="social-icons"><i class="iconm iconm-profile" style="vertical-align: center;"></i></a>
+<a href="{{ site.url }}/cv_ch" title="个人简历" class="social-icons"><i class="iconm iconm-profile" style="vertical-align: center;"></i></a>
 <a href="{{ site.url }}/about/publications/" class="social-icons" title="论文发表"><i class="fa fa-book" aria-hidden="true" style="vertical-align: center;"></i></a>
 <a href="{{ site.owner.linkedin}}" class="social-icons" title="领英"><i class="fa fa-linkedin-square" aria-hidden="true" style="vertical-align: center;"></i></a>
 </span>
@@ -44,14 +44,8 @@ tags:
 * 2012年9月1日——2013年8月31日：新加坡南洋理工大学电气与电子工程学院，博士后研究员
 * 2011年2月15日——2012年8月31日：英国伯明翰大学电子、电气和计算机工程系，设备经理
 
-# 教学经历
-我拥有英国高等教育学院的研究员资格。在我的职业生涯中，我一直在练习不同的方法来改善学生的学习体验，包括翻转课堂式教学，使用平板电脑和学生响应系统提供模块和在线测验系统，通过开展 教学发展基金项目和与同事的合作来提升学生的反馈系统。 我在2018年通过了英国利物浦大学颁发的职业学习证书（CPS），总成绩为"优秀（Pass with Distinction）"，同年，我取得了英国高等教育研究院研究员资格（FHEA）。
+# [教学经历](/pages/teaching experience.md)
 
-## 教授课程
-* 2013年——2019年：西交利物浦大学，电路理论一（专业基础课），64课时，200位学生
-* 2013年——2019年：西交利物浦大学，智能电网技术（专业选修课），64课时，20位学生
-* 2019年——现在：华南理工大学，工程导论-技术沟通（专业基础课），28课时，50位学生
-* 2020年——现在：华南理工大学，动力学与振动导论（专业基础课），64课时，100位学生
 
 # 研究经历
 ## 学术档案
