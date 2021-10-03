@@ -51,7 +51,7 @@ exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "l
 author:
   name:              Lu Shaofeng
   url:               https://twitter.com/ShaofengLu1
-  avatar:            foo.png
+  avatar:            lushaofeng.png
   email:             Shaofeng.Lu@hotmail.com
 
 # Owner/author information
