@@ -88,6 +88,8 @@ links:
     url: /tags/
   - title: <i class="fa fa-archive"></i> Archive
     url: /archive/
+  - title: <i class="fa fa-language"></i> 中文
+    url: /chinese/
   - title: <i class="iconside iconm-wordpress"></i> Old Blog
     url: https://lushaofeng.wordpress.com
     external: true
