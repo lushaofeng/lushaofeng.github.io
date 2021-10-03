@@ -7,9 +7,9 @@
 #encoding: utf-8
 
 # Setup
-title:               Lu Shaofeng Web Page 
-#tagline:             'Shaofeng's website
-description:         Shaofeng's blog...
+title:               "Lu Shaofeng Web Page" 
+#tagline:            'Shaofeng's website
+description:         "Shaofeng's Web"
 #url: https://lanyon-plus.sbamin.com
 #baseurl: ""
 #urlimg: https://lanyon-plus.sbamin.com/images/
@@ -63,14 +63,13 @@ owner:
   description:
   # Social networking links used in footer. Update and remove as you like.
   twitter:        ShaofengLu1
-  facebook:       
+  facebook:       shaofeng.lu
   github:         lushaofeng
   stackexchange:  
   linkedin:       https://www.linkedin.com/in/shaofeng-lu-45507b18
   instagram:      
   flickr:
-  tumblr:  
-  #google_plus:    https://plus.google.com/+foo
+  tumblr: 
   # orcid and google scholar IDs are different than standard username.
   orcid: 0000-0001-5361-2463
   gscholar: hfkHeAQAAAAJ&hl
