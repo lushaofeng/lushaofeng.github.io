@@ -1,12 +1,12 @@
-- name: Twitter
-  url: https://twitter.com/shaofenglu1
-  class: fa fa-twitter-square
-  title: "Follow me @ShaofengLu1"
-
 - name: Facebook
   url: https://www.facebook.com/shaofeng.lu
   class: fa fa-facebook-square
   title: "Follow me @Shaofeng.Lu"
+
+- name: Twitter
+  url: https://twitter.com/shaofenglu1
+  class: fa fa-twitter-square
+  title: "Follow me @ShaofengLu1"
 
 - name: GitHub
   url: https://github.com/lushaofeng
