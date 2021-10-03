@@ -17,6 +17,7 @@
     {% endcomment %}
 
    
+    {% comment %}
     <!-- DISABLE AUTO LINKS -->
     {% assign pages_list = site.pages | sort:"url" %}
     {% for node in pages_list %}
@@ -26,7 +27,7 @@
         {% endif %}
       {% endif %}
     {% endfor %}
-
+    {% endcomment %}
 
     {% for link in site.links %}
             {% if link.external %}
