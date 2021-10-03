@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Chinese/
+permalink: /chinese/
 title: 中文简历
 show_meta: false
 published: true
