@@ -18,9 +18,12 @@ tags:
   - address
 ---
 
+<!-- 
 | <i class="fa fa-twitter"></i> | [@{{ site.owner.twitter }}](https://twitter.com/{{ site.owner.twitter }})  | 
-| - | :- |
-| <i class="fa fa-envelope"></i> | Lu Shaofeng <br>South China University of Technology<br>777 Fuxing Ave East, Panyu District<br> Guangzhou 215000| 
+| - | :- | -->
+
+
+| <i class="fa fa-map-marker"></i> | Lu Shaofeng <br>South China University of Technology<br>777 Fuxing Ave East, Panyu District<br> Guangzhou 215000| 
 | - | :- |
 | <i class="fa fa-envelope" aria-hidden="true"></i> | shaofeng.lu_at_hotmail.com (private) <br> lushaofeng_at_scut.edu.cn(work)| 
 | - | :- |
