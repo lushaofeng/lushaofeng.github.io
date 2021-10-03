@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink:/about/research_ch/ 
+permalink: /about/research_ch/ 
 title: 卢少锋的科研经历
 tag: 
   - 卢少锋
