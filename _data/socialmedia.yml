@@ -1,6 +1,6 @@
 - name: Facebook
   url: https://www.facebook.com/shaofeng.lu
-  class: fa fa-facebook
+  class: fa fa-facebook-official
   title: "Follow me @Shaofeng.Lu"
 
 - name: Twitter
