@@ -55,7 +55,8 @@ tags:
 
 {% comment %}
 Twitter stream will show up here if `twitter_widget_id` is present is `_config.yml
-{%endcomment%}
 
 <a class="twitter-timeline" href="https://twitter.com/ShaofengLu1?ref_src=twsrc%5Etfw">Tweets by ShaofengLu1</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+{%endcomment%}
 {% endif %}
