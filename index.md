@@ -4,10 +4,9 @@ permalink: index.html
 title: Personal Homepage of Lu Shaofeng 
 description: "Lu Shaofeng Homepage"
 ---
+大家好，我是卢少锋，欢迎来到我的个人网页。我目前是华南理工大学的一名高校老师，欢迎点击我的[中文主页]（/chinese/）。
 
-Hi, my name is Lu Shaofeng. I am currently an Associate Professor with the Shien-Ming Wu School of Intelligent Engineering, South China University of Technology (SCUT). Before joining SCUT, I was a faculty member with Department of Electrical and Electronic Engineering, Xi'an Jiaotong-Liverpool University (XJTLU) from Sep. 2013 to Aug. 2019.
-
-My research interests include railway traction systems, renewable power systems, meta-heuristic and numerical optimisation techniques, electric and hybrid driving systems, electric networks, power management strategies, energy storage devices and complex network. <a href="/about/"> Read more about my professional life story...</a>
+Hi, welcom to my personal webpage. My name is Lu Shaofeng. I am currently an Associate Professor with the Shien-Ming Wu School of Intelligent Engineering, South China University of Technology (SCUT). <a href="/about/"> Read more about my professional life story...</a>
 
 <div class="posts">
   {% for post in site.categories.featured limit:2 %}
