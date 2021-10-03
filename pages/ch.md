@@ -18,7 +18,14 @@ tags:
   - "Chinese"
 ---
 
-# 个人简介
+<div class="post-author text-center">                       
+<img src="{{ site.urlimg }}{{ site.owner.avatar }}" alt="{{ site.owner.name }}'s photo" itemprop="image" class="post-avatar img-circle img-responsive"/> 
+<span class="social-icons" style="padding-top: 10px; padding-bottom: 1px;">
+<a href="{{ site.url }}/Lu Shaofeng CV.pdf" title="中文简历" class="social-icons"><i class="iconm iconm-profile" style="vertical-align: center;"></i></a>
+<a href="{{ site.url }}/about/publications/" class="social-icons" title="论文发表"><i class="fa fa-book" aria-hidden="true" style="vertical-align: center;"></i></a>
+<a href="{{ site.owner.linkedin}}" class="social-icons" title="领英"><i class="fa fa-linkedin-square" aria-hidden="true" style="vertical-align: center;"></i></a>
+</span>
+</div>
 
 我目前在华南理工大学吴贤铭智能工程学院担任预聘副教授、特聘研究员、博士生导师。我于2007年毕业于华中科技大学和英国伯明翰大学（3+1项目、一等荣誉学位）获工学学士学位，2011年毕业于英国伯明翰大学获博士学位。2011至2018年间，我先后在英国伯明翰大学、新加坡南洋理工大学、英国利物浦大学、西交利物浦大学担任博士后、博士生导师、讲师、副教授等职。在此期间先后获得伯明翰大学学院最佳博士生奖、入选江苏省双创博士计划、取得英国高等教育研究院研究员资格等荣誉。
 
