@@ -11,7 +11,7 @@
 - name: GitHub
   url: https://github.com/lushaofeng
   class: fa fa-github-square
-  title: Code repository
+  title: "Code repository"
 
 - name: Contact
   url: "/contact/"
