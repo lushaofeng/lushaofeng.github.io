@@ -22,7 +22,9 @@ tags:
 | - | :- |
 | <i class="fa fa-envelope"></i> | Lu Shaofeng <br>South China University of Technology<br>777 Fuxing Ave East, Panyu District<br> Guangzhou 215000| 
 | - | :- |
-| <i class="fa fa-paper-plane"></i> | shaofeng.lu@hotmail.com | 
+| <i class="fa fa-envelope" aria-hidden="true"></i> | shaofeng.lu_at_hotmail.com (private) <br> lushaofeng_at_scut.edu.cn(work)| 
+| - | :- |
+| <i class="fa fa-phone" aria-hidden="true"></i> | +86(0)20-81182116 (work)| 
 | - | :- |
 
 <a href="https://twitter.com/share" class="twitter-share-button" data-via="{{ site.owner.twitter }}" data-size="small" data-dnt="true">Tweet</a> <a href="javascript:window.print()" class="social-icons" title="Printer friendly format"><i class="fa fa-print"></i></a>
@@ -47,5 +49,6 @@ tags:
 </script>
 </div>
 {% else %}
-Twitter stream will show up here if `twitter_widget_id` is present is `_config.yml`
+    <!-- Twitter stream will show up here if `twitter_widget_id` is present is `_config.yml -->
+<a class="twitter-timeline" href="https://twitter.com/ShaofengLu1?ref_src=twsrc%5Etfw">Tweets by ShaofengLu1</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>`
 {% endif %}
