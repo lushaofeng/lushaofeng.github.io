@@ -13,10 +13,10 @@
 
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
-      `layout: page` in the front-matter. See readme for usage.
+      `layout: page` in the front-matter. See readme for usage. Comment it out if needed. 
     {% endcomment %}
 
-    {% comment %}
+   
     <!-- DISABLE AUTO LINKS -->
     {% assign pages_list = site.pages | sort:"url" %}
     {% for node in pages_list %}
@@ -26,7 +26,7 @@
         {% endif %}
       {% endif %}
     {% endfor %}
-    {% endcomment %}
+
 
     {% for link in site.links %}
             {% if link.external %}
