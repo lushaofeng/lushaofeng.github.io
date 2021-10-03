@@ -6,7 +6,7 @@
 - name: Facebook
   url: https://www.facebook.com/shaofeng.lu
   class: fa fa-facebook-square
-  title: "Follow me +foo"
+  title: "Follow me @Shaofeng.Lu"
 
 - name: GitHub
   url: https://github.com/lushaofeng
