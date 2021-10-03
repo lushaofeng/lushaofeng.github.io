@@ -25,9 +25,9 @@ tags:
 <div class="post-author text-center">                       
 <img src="{{ site.urlimg }}{{ site.owner.avatar }}" alt="{{ site.owner.name }}'s photo" itemprop="image" class="post-avatar img-circle img-responsive"/> 
 <span class="social-icons" style="padding-top: 10px; padding-bottom: 1px;">
-<a href="{{ site.url }}/cv" title="Curriculum Vitae" class="social-icons"><i class="iconm iconm-profile" style="vertical-align: top;"></i></a>
-<a href="{{ site.url }}/about/publications/" class="social-icons" title="Publications"><i class="fa fa-book" aria-hidden="true" style="vertical-align: top;"></i></a>
-<a href="{{ site.owner.linkedin }}" class="social-icons" title="LinkedIn profile"><i class="fa fa-linkedin-square" aria-hidden="true" style="vertical-align: top;"></i></a>
+<a href="{{ site.url }}/cv" title="Curriculum Vitae" class="social-icons"><i class="iconm iconm-profile" style="vertical-align: center;"></i></a>
+<a href="{{ site.url }}/about/publications/" class="social-icons" title="Publications"><i class="fa fa-book" aria-hidden="true" style="vertical-align: center;"></i></a>
+<a href="{{ site.owner.linkedin }}" class="social-icons" title="LinkedIn profile"><i class="fa fa-linkedin-square" aria-hidden="true" style="vertical-align: center;"></i></a>
 </span>
 </div>
 
