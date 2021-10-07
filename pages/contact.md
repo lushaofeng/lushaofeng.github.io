@@ -25,7 +25,7 @@ tags:
 
 | <i class="fa fa-map-marker"></i> | Lu Shaofeng <br>South China University of Technology<br>777 Fuxing Ave East, Panyu District<br> Guangzhou 215000| 
 | - | :- |
-| <i class="fa fa-envelope" aria-hidden="true"></i> | shaofeng.lu_at_hotmail.com (private) <br> lushaofeng_at_scut.edu.cn(work)| 
+| <i class="fa fa-envelope" aria-hidden="true"></i> | shaofeng.lu_at_hotmail.com (private) <br> lushaofeng_at_scut.edu.cn(work)<br> Replace"_at_" with "@"| 
 | - | :- |
 | <i class="fa fa-phone" aria-hidden="true"></i> | +86(0)20-81182116 (work)| 
 | - | :- |
